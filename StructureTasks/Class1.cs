@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -19,6 +20,7 @@ namespace StructureTasks
 		private readonly Dictionary<Guid, string> _nodes = new Dictionary<Guid, string>();
 		private readonly Dictionary<Guid, DateTime> _links = new Dictionary<Guid, DateTime>();
 		private readonly Dictionary<Guid, Dictionary<Guid, Guid>> _linksTable = new Dictionary<Guid, Dictionary<Guid, Guid>>();
+
 		public Guid AddNode(string s)
 		{
 			var new_guid = Guid.NewGuid();
@@ -83,4 +85,7 @@ namespace StructureTasks
 			}
 		}
 	}
+
+
+	
 }
