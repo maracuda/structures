@@ -120,7 +120,7 @@ namespace StructureTasks
 		}
 
 		[Test()]
-		public void Detach_TrheeExistedNodesOneLinkRemoved_GetOneLink()
+		public void Detach_ThreeExistedNodesOneLinkRemoved_GetOneLink()
 		{
 			var id1 = _simpleLinker.AddNode("node 1");
 			var id2 = _simpleLinker.AddNode("node 2");
