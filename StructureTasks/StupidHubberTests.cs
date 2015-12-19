@@ -9,12 +9,12 @@ namespace StructureTasks
 {
 	class StupidHubberTests
 	{
-		private StupidHubber _stupidHubber;
+		private NotSoStupidHubber _stupidHubber;
 
 		[SetUp]
 		public void Init()
 		{
-			_stupidHubber = new StupidHubber();
+			_stupidHubber = new NotSoStupidHubber();
 		}
 
 		[Test]
