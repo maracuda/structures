@@ -1,0 +1,16 @@
+U:\SourceTreeRepo\Commodities\StockLibraryTests\obj\Debug\StockLibraryTests.csprojResolveAssemblyReference.cache
+U:\SourceTreeRepo\Commodities\StockLibraryTests\bin\Debug\StockLibraryTests.dll
+U:\SourceTreeRepo\Commodities\StockLibraryTests\bin\Debug\StockLibraryTests.pdb
+U:\SourceTreeRepo\Commodities\StockLibraryTests\bin\Debug\nunit.framework.dll
+U:\SourceTreeRepo\Commodities\StockLibraryTests\bin\Debug\StockLibrary.dll
+U:\SourceTreeRepo\Commodities\StockLibraryTests\bin\Debug\StockLibrary.pdb
+U:\SourceTreeRepo\Commodities\StockLibraryTests\obj\Debug\StockLibraryTests.dll
+U:\SourceTreeRepo\Commodities\StockLibraryTests\obj\Debug\StockLibraryTests.pdb
+U:\SourceTreeRepo\Stock\StockLibraryTests\bin\Debug\StockLibraryTests.dll
+U:\SourceTreeRepo\Stock\StockLibraryTests\bin\Debug\StockLibraryTests.pdb
+U:\SourceTreeRepo\Stock\StockLibraryTests\bin\Debug\nunit.framework.dll
+U:\SourceTreeRepo\Stock\StockLibraryTests\bin\Debug\StockLibrary.dll
+U:\SourceTreeRepo\Stock\StockLibraryTests\bin\Debug\StockLibrary.pdb
+U:\SourceTreeRepo\Stock\StockLibraryTests\obj\Debug\StockLibraryTests.csprojResolveAssemblyReference.cache
+U:\SourceTreeRepo\Stock\StockLibraryTests\obj\Debug\StockLibraryTests.dll
+U:\SourceTreeRepo\Stock\StockLibraryTests\obj\Debug\StockLibraryTests.pdb

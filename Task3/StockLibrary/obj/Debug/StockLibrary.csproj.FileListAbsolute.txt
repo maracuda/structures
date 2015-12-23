@@ -1,0 +1,10 @@
+U:\SourceTreeRepo\Commodities\StockLibrary\bin\Debug\StockLibrary.dll
+U:\SourceTreeRepo\Commodities\StockLibrary\bin\Debug\StockLibrary.pdb
+U:\SourceTreeRepo\Commodities\StockLibrary\obj\Debug\StockLibrary.csprojResolveAssemblyReference.cache
+U:\SourceTreeRepo\Commodities\StockLibrary\obj\Debug\StockLibrary.dll
+U:\SourceTreeRepo\Commodities\StockLibrary\obj\Debug\StockLibrary.pdb
+U:\SourceTreeRepo\Stock\StockLibrary\bin\Debug\StockLibrary.dll
+U:\SourceTreeRepo\Stock\StockLibrary\bin\Debug\StockLibrary.pdb
+U:\SourceTreeRepo\Stock\StockLibrary\obj\Debug\StockLibrary.csprojResolveAssemblyReference.cache
+U:\SourceTreeRepo\Stock\StockLibrary\obj\Debug\StockLibrary.dll
+U:\SourceTreeRepo\Stock\StockLibrary\obj\Debug\StockLibrary.pdb

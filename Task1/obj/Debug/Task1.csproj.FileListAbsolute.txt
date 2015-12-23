@@ -1,0 +1,6 @@
+U:\SourceTreeRepo\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+U:\SourceTreeRepo\Task1\bin\Debug\Task1.dll
+U:\SourceTreeRepo\Task1\bin\Debug\Task1.pdb
+U:\SourceTreeRepo\Task1\bin\Debug\nunit.framework.dll
+U:\SourceTreeRepo\Task1\obj\Debug\Task1.dll
+U:\SourceTreeRepo\Task1\obj\Debug\Task1.pdb
