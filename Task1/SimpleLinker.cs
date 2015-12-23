@@ -1,25 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace StructureTasks
+namespace Task1
 {
-	public interface ILinker
-	{
-		Guid AddNode(string s);
-		void Attach(Guid first, Guid second);
-		void Detach(Guid first, Guid second);
-		IEnumerable<string> GetNeighbors(Guid id);
-	}
-
 	public class SimpleLinker : ILinker
 	{
-		private readonly Dictionary<Guid, string> _nodes = new Dictionary<Guid, string>();
 		private readonly Dictionary<Guid, DateTime> _links = new Dictionary<Guid, DateTime>();
-		private readonly Dictionary<Guid, Dictionary<Guid, Guid>> _linksTable = new Dictionary<Guid, Dictionary<Guid, Guid>>();
+
+		private readonly Dictionary<Guid, Dictionary<Guid, Guid>> _linksTable =
+			new Dictionary<Guid, Dictionary<Guid, Guid>>();
+
+		private readonly Dictionary<Guid, string> _nodes = new Dictionary<Guid, string>();
 
 		public Guid AddNode(string s)
 		{
@@ -80,12 +72,9 @@ namespace StructureTasks
 			}
 			else
 			{
-				dict = new Dictionary<Guid, Guid> { { n2, link_id } };
+				dict = new Dictionary<Guid, Guid> {{n2, link_id}};
 				_linksTable.Add(n1, dict);
 			}
 		}
 	}
-
-
-	
 }
