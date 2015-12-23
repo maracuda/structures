@@ -1,20 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using NUnit.Framework;
 
-namespace StructureTasks
+namespace Task2
 {
 	class StupidHubberTests
 	{
-		private NotSoStupidHubber _stupidHubber;
+		private StupidHubber _stupidHubber;
 
 		[SetUp]
 		public void Init()
 		{
-			_stupidHubber = new NotSoStupidHubber();
+			_stupidHubber = new StupidHubber();
 		}
 
 		[Test]
