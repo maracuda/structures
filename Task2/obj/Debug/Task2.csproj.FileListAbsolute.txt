@@ -1,6 +1,0 @@
-U:\SourceTreeRepo\Task2\bin\Debug\Task2.dll
-U:\SourceTreeRepo\Task2\bin\Debug\Task2.pdb
-U:\SourceTreeRepo\Task2\bin\Debug\nunit.framework.dll
-U:\SourceTreeRepo\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
-U:\SourceTreeRepo\Task2\obj\Debug\Task2.dll
-U:\SourceTreeRepo\Task2\obj\Debug\Task2.pdb
